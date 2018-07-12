@@ -58,6 +58,7 @@ javadoc
 jenkins-jira-issue-updater
 jobConfigHistory
 job-import-plugin
+kubernetes
 ldap
 lockable-resources
 mailer
